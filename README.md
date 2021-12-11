@@ -4,4 +4,4 @@ s23004
 s23707
 s23917
 
-Rozpoznawanie mowy.
+Rozpoznawanie mowy, zagadnienie: emocje.
